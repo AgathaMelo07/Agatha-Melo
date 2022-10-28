@@ -1,14 +1,14 @@
 body{
-    background-color: rgb(240, 229, 133);
+    background-color: rgb(214, 214, 214);
 }
 h1{
-    color:rgb(18, 99, 95);
+    color:rgb(119, 119, 119);
     font-family:verdana;
     font-size:70px;
       }
 
     p{
-        color:rgb(71, 14, 14) ;
+        color:rgb(0, 0, 0) ;
         font-family: sans-serif ;
         font-size:50px ;
          }
